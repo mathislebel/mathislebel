@@ -16,13 +16,15 @@
     </a>
 </p>
 
-- 🔭 My current school project is [**Sportshield**](https://github.com/algosup/2023-2024-project-4-sportshield-team-2)
+- 🔭 My current school projects:
+  - **Pacman in Assembly** (Software Developer): [GitHub Link](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-5)
+  - **Virtual Processor** (Technical Lead): [GitHub Link](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-5)
+  - **Sportshield** (Functional Lead): [GitHub Link](https://github.com/algosup/2023-2024-project-4-sportshield-team-2)
+  - **We Are Evolution App** (Software and QA): [GitHub Link](https://github.com/algosup/2023-2024-project-5-flutter-team-2)
 
-- 🌱 I’m currently learning **advanced algorithms and data structures**
+- 📫 How to reach me: **mathis.lebel@algosup.com**
 
-- 📫 How to reach me **mathis.lebel@algosup.com**
-
-- ⚡ Fun fact **I love playing chess and coding challenges**
+- ⚡ Fun fact: **I love solving coding challenges**
 
 <h2 align="center">📊 GitHub Stats</h2>
 
