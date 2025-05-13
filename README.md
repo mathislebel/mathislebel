@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+profile!;I+am+Mathis+Lebel;Software+Engineering+Student+at+ALGOSUP.)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Mathis Lebel</h1>
-<h3 align="center">💻 Passionate Software Engineering student at ALGOSUP</h3>
+<h3 align="center">💻 Passionate Software Engineering student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mathislebel&color=blueviolet&style=plastic" alt="Profile Views" />
