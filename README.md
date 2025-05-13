@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+profile!;I+am+Mathis+Lebel;Software+Engineering+Student+at+ALGOSUP.)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Mathis Lebel</h1>
-<h3 align="center">💻 Passionate Software Engineering student</h3>
+<h1 align="center">Hi, I'm Mathis Lebel</h1>
+<h3 align="center"> Passionate Software Engineering student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mathislebel&color=blueviolet&style=plastic" alt="Profile Views" />
@@ -9,31 +9,31 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 I'm currently studying **Software Engineering at ALGOSUP**
-- 🧠 Passionate about **low-level programming, software architecture, and mobile development**
-- ⚡ Fun fact: I enjoy solving coding challenges just for fun!
-
----
-
-### 📚 Current School Projects
-
-- 🎮 **Pacman in Assembly** — Software Developer  
-  [🔗 GitHub Repository](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-5)
-
-- 🧠 **Virtual Processor** — Technical Lead  
-  [🔗 GitHub Repository](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-5)
-
-- 🏃 **Sportshield** — Functional Lead  
-  [🔗 GitHub Repository](https://github.com/algosup/2023-2024-project-4-sportshield-team-2)
-
-- 📱 **We Are Evolution App** — Software Developer & QA  
-  [🔗 GitHub Repository](https://github.com/algosup/2023-2024-project-5-flutter-team-2)
+-  I'm currently studying **Software Engineering at ALGOSUP**
+-  Passionate about **low-level programming, software architecture, and mobile development**
+-  Fun fact: I enjoy solving coding challenges just for fun!
 
 ---
 
-### 📊 GitHub Stats
+### Current School Projects
+
+-  **Pacman in Assembly** — Software Developer  
+  [ GitHub Repository](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-5)
+
+-  **Virtual Processor** — Technical Lead  
+  [ GitHub Repository](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-5)
+
+-  **Sportshield** — Functional Lead  
+  [ GitHub Repository](https://github.com/algosup/2023-2024-project-4-sportshield-team-2)
+
+-  **We Are Evolution App** — Software Developer & QA  
+  [ GitHub Repository](https://github.com/algosup/2023-2024-project-5-flutter-team-2)
+
+---
+
+###  GitHub Stats
 
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mathislebel&show_icons=true&theme=radical" alt="Mathis GitHub Stats" />
@@ -59,7 +59,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mathis-lebel-429114293/" target="_blank">
